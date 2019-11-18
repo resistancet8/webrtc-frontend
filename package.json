@@ -1,0 +1,17 @@
+{
+  "name": "webrtc-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^6.13.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
